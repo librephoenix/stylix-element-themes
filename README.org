@@ -19,3 +19,8 @@ First, make sure Labs are enabled in your Element's =config.json=:
 Next, enable "Support adding custom themes" (=feature_custom_themes=) in the Labs section of your settings.
 
 Lastly, you can import any theme you want by going to the Appearance section of your settings, and pasting a raw url to any json theme in this repository.
+
+** Credits
+Inspired by:
+- [[https://github.com/aaronraimist/element-themes][aaronraimist/element-themes]]
+- [[https://github.com/acxz/element-wal][acxz/element-wal]]
