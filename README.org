@@ -20,6 +20,10 @@ Next, enable "Support adding custom themes" (=feature_custom_themes=) in the Lab
 
 Lastly, you can import any theme you want by going to the Appearance section of your settings, and pasting a raw url to any json theme in this repository.
 
+** Dev Notes
+*** How to Update Themes
+Read through replies on [[https://github.com/element-hq/element-web/issues/13221][this issue]].
+
 ** Credits
 Inspired by:
 - [[https://github.com/aaronraimist/element-themes][aaronraimist/element-themes]]
