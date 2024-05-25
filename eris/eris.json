@@ -1,0 +1,25 @@
+
+{
+    "name": "eris",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#faaea2",
+        "primary-color": "#258fc4",
+        "warning-color": "#f768a3",
+
+        "sidebar-color": "#0a0920",
+        "roomlist-background-color": "#13133a",
+        "roomlist-text-color": "#faaea2",
+        "roomlist-text-secondary-color": "#606bac",
+        "roomlist-highlights-color": "#0a0920",
+        "roomlist-separator-color": "#23255a",
+
+        "timeline-background-color": "#23255a",
+        "timeline-text-color": "#7986c5",
+        "secondary-content": "#7986c5",
+        "tertiary-content": "#7986c5",
+        "timeline-text-secondary-color": "#258fc4",
+        "timeline-highlights-color": "#13133a",
+        "reaction-row-button-selected-bg-color": "f768a3"
+    }
+}

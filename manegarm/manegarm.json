@@ -1,0 +1,25 @@
+
+{
+    "name": "Manegarm",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#ffbf00",
+        "primary-color": "#0075c4",
+        "warning-color": "#ff4e00",
+
+        "sidebar-color": "#1c1408",
+        "roomlist-background-color": "#241c0a",
+        "roomlist-text-color": "#7cb518",
+        "roomlist-text-secondary-color": "#73797e",
+        "roomlist-highlights-color": "#1c1408",
+        "roomlist-separator-color": "#351a0f",
+
+        "timeline-background-color": "#351a0f",
+        "timeline-text-color": "#9ca0a4",
+        "secondary-content": "#9ca0a4",
+        "tertiary-content": "#9ca0a4",
+        "timeline-text-secondary-color": "#d72638",
+        "timeline-highlights-color": "#241c0a",
+        "reaction-row-button-selected-bg-color": "ff4e00"
+    }
+}

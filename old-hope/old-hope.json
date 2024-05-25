@@ -1,0 +1,25 @@
+
+{
+    "name": "Old Hope",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#78bd65",
+        "primary-color": "#78bd65",
+        "warning-color": "#ea3d54",
+
+        "sidebar-color": "#1c1d20",
+        "roomlist-background-color": "#202328",
+        "roomlist-text-color": "#fedd38",
+        "roomlist-text-secondary-color": "#686b78",
+        "roomlist-highlights-color": "#1c1d20",
+        "roomlist-separator-color": "#23272e",
+
+        "timeline-background-color": "#23272e",
+        "timeline-text-color": "#9ca0a4",
+        "secondary-content": "#9ca0a4",
+        "tertiary-content": "#9ca0a4",
+        "timeline-text-secondary-color": "#4fb3d8",
+        "timeline-highlights-color": "#202328",
+        "reaction-row-button-selected-bg-color": "ea3d54"
+    }
+}

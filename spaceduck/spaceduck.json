@@ -1,0 +1,25 @@
+
+{
+    "name": "Spaceduck",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#5ccc96",
+        "primary-color": "#00a3cc",
+        "warning-color": "#e33400",
+
+        "sidebar-color": "#16172d",
+        "roomlist-background-color": "#1b1c36",
+        "roomlist-text-color": "#f2ce00",
+        "roomlist-text-secondary-color": "#ecf0c1",
+        "roomlist-highlights-color": "#16172d",
+        "roomlist-separator-color": "#30365F",
+
+        "timeline-background-color": "#30365F",
+        "timeline-text-color": "#c1c3cc",
+        "secondary-content": "#c1c3cc",
+        "tertiary-content": "#c1c3cc",
+        "timeline-text-secondary-color": "#7a5ccc",
+        "timeline-highlights-color": "#1b1c36",
+        "reaction-row-button-selected-bg-color": "e33400"
+    }
+}

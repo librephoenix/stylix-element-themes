@@ -1,0 +1,25 @@
+
+{
+    "name": "Twilight",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#8f9d6a",
+        "primary-color": "#afc4db",
+        "warning-color": "#cf6a4c",
+
+        "sidebar-color": "#1e1e1e",
+        "roomlist-background-color": "#323537",
+        "roomlist-text-color": "#f9ee98",
+        "roomlist-text-secondary-color": "#a7a7a7",
+        "roomlist-highlights-color": "#1e1e1e",
+        "roomlist-separator-color": "#464b50",
+
+        "timeline-background-color": "#464b50",
+        "timeline-text-color": "#c3c3c3",
+        "secondary-content": "#c3c3c3",
+        "tertiary-content": "#c3c3c3",
+        "timeline-text-secondary-color": "#7587a6",
+        "timeline-highlights-color": "#323537",
+        "reaction-row-button-selected-bg-color": "cf6a4c"
+    }
+}

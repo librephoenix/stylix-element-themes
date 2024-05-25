@@ -1,0 +1,25 @@
+
+{
+    "name": "Atelier Dune",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#60ac39",
+        "primary-color": "#1fad83",
+        "warning-color": "#d73737",
+
+        "sidebar-color": "#20201d",
+        "roomlist-background-color": "#292824",
+        "roomlist-text-color": "#ae9513",
+        "roomlist-text-secondary-color": "#a6a28c",
+        "roomlist-highlights-color": "#20201d",
+        "roomlist-separator-color": "#6e6b5e",
+
+        "timeline-background-color": "#6e6b5e",
+        "timeline-text-color": "#e8e4cf",
+        "secondary-content": "#e8e4cf",
+        "tertiary-content": "#e8e4cf",
+        "timeline-text-secondary-color": "#6684e1",
+        "timeline-highlights-color": "#292824",
+        "reaction-row-button-selected-bg-color": "d73737"
+    }
+}

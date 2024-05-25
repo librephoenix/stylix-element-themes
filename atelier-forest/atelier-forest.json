@@ -1,0 +1,25 @@
+
+{
+    "name": "Atelier Forest",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#7b9726",
+        "primary-color": "#3d97b8",
+        "warning-color": "#f22c40",
+
+        "sidebar-color": "#1b1918",
+        "roomlist-background-color": "#2c2421",
+        "roomlist-text-color": "#c38418",
+        "roomlist-text-secondary-color": "#a8a19f",
+        "roomlist-highlights-color": "#1b1918",
+        "roomlist-separator-color": "#68615e",
+
+        "timeline-background-color": "#68615e",
+        "timeline-text-color": "#e6e2e0",
+        "secondary-content": "#e6e2e0",
+        "tertiary-content": "#e6e2e0",
+        "timeline-text-secondary-color": "#407ee7",
+        "timeline-highlights-color": "#2c2421",
+        "reaction-row-button-selected-bg-color": "f22c40"
+    }
+}

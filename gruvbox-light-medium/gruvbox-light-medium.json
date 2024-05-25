@@ -1,0 +1,25 @@
+
+{
+    "name": "Gruvbox light, medium",
+    "is_dark": false,
+    "colors": {
+        "accent-color": "#79740e",
+        "primary-color": "#427b58",
+        "warning-color": "#9d0006",
+
+        "sidebar-color": "#fbf1c7",
+        "roomlist-background-color": "#ebdbb2",
+        "roomlist-text-color": "#b57614",
+        "roomlist-text-secondary-color": "#504945",
+        "roomlist-highlights-color": "#fbf1c7",
+        "roomlist-separator-color": "#d5c4a1",
+
+        "timeline-background-color": "#d5c4a1",
+        "timeline-text-color": "#3c3836",
+        "secondary-content": "#3c3836",
+        "tertiary-content": "#3c3836",
+        "timeline-text-secondary-color": "#076678",
+        "timeline-highlights-color": "#ebdbb2",
+        "reaction-row-button-selected-bg-color": "9d0006"
+    }
+}

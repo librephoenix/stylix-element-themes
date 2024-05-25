@@ -1,0 +1,25 @@
+
+{
+    "name": "Tomorrow Night",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#b5bd68",
+        "primary-color": "#8abeb7",
+        "warning-color": "#cc6666",
+
+        "sidebar-color": "#1d1f21",
+        "roomlist-background-color": "#282a2e",
+        "roomlist-text-color": "#f0c674",
+        "roomlist-text-secondary-color": "#c5c8c6",
+        "roomlist-highlights-color": "#1d1f21",
+        "roomlist-separator-color": "#373b41",
+
+        "timeline-background-color": "#373b41",
+        "timeline-text-color": "#e0e0e0",
+        "secondary-content": "#e0e0e0",
+        "tertiary-content": "#e0e0e0",
+        "timeline-text-secondary-color": "#81a2be",
+        "timeline-highlights-color": "#282a2e",
+        "reaction-row-button-selected-bg-color": "cc6666"
+    }
+}

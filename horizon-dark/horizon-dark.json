@@ -1,0 +1,25 @@
+
+{
+    "name": "Horizon Dark",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#EFAF8E",
+        "primary-color": "#24A8B4",
+        "warning-color": "#E93C58",
+
+        "sidebar-color": "#1C1E26",
+        "roomlist-background-color": "#232530",
+        "roomlist-text-color": "#EFB993",
+        "roomlist-text-secondary-color": "#CBCED0",
+        "roomlist-highlights-color": "#1C1E26",
+        "roomlist-separator-color": "#2E303E",
+
+        "timeline-background-color": "#2E303E",
+        "timeline-text-color": "#DCDFE4",
+        "secondary-content": "#DCDFE4",
+        "tertiary-content": "#DCDFE4",
+        "timeline-text-secondary-color": "#DF5273",
+        "timeline-highlights-color": "#232530",
+        "reaction-row-button-selected-bg-color": "E93C58"
+    }
+}

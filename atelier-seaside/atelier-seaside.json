@@ -1,0 +1,25 @@
+
+{
+    "name": "Atelier Seaside",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#29a329",
+        "primary-color": "#1999b3",
+        "warning-color": "#e6193c",
+
+        "sidebar-color": "#131513",
+        "roomlist-background-color": "#242924",
+        "roomlist-text-color": "#98981b",
+        "roomlist-text-secondary-color": "#8ca68c",
+        "roomlist-highlights-color": "#131513",
+        "roomlist-separator-color": "#5e6e5e",
+
+        "timeline-background-color": "#5e6e5e",
+        "timeline-text-color": "#cfe8cf",
+        "secondary-content": "#cfe8cf",
+        "tertiary-content": "#cfe8cf",
+        "timeline-text-secondary-color": "#3d62f5",
+        "timeline-highlights-color": "#242924",
+        "reaction-row-button-selected-bg-color": "e6193c"
+    }
+}

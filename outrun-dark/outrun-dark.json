@@ -1,0 +1,25 @@
+
+{
+    "name": "Outrun Dark",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#59F176",
+        "primary-color": "#0EF0F0",
+        "warning-color": "#FF4242",
+
+        "sidebar-color": "#00002A",
+        "roomlist-background-color": "#20204A",
+        "roomlist-text-color": "#F3E877",
+        "roomlist-text-secondary-color": "#D0D0FA",
+        "roomlist-highlights-color": "#00002A",
+        "roomlist-separator-color": "#30305A",
+
+        "timeline-background-color": "#30305A",
+        "timeline-text-color": "#E0E0FF",
+        "secondary-content": "#E0E0FF",
+        "tertiary-content": "#E0E0FF",
+        "timeline-text-secondary-color": "#66B0FF",
+        "timeline-highlights-color": "#20204A",
+        "reaction-row-button-selected-bg-color": "FF4242"
+    }
+}

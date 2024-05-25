@@ -1,0 +1,25 @@
+
+{
+    "name": "Caret Dark",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#a1ea9e",
+        "primary-color": "#a1ea93",
+        "warning-color": "#f18e91",
+
+        "sidebar-color": "#2a2d25",
+        "roomlist-background-color": "#3f4536",
+        "roomlist-text-color": "#e0c98a",
+        "roomlist-text-secondary-color": "#b0c48d",
+        "roomlist-highlights-color": "#2a2d25",
+        "roomlist-separator-color": "#586048",
+
+        "timeline-background-color": "#586048",
+        "timeline-text-color": "#c5d4ab",
+        "secondary-content": "#c5d4ab",
+        "tertiary-content": "#c5d4ab",
+        "timeline-text-secondary-color": "#67cfa3",
+        "timeline-highlights-color": "#3f4536",
+        "reaction-row-button-selected-bg-color": "f18e91"
+    }
+}

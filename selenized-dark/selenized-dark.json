@@ -1,0 +1,25 @@
+
+{
+    "name": "selenized-dark",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#75b938",
+        "primary-color": "#41c7b9",
+        "warning-color": "#fa5750",
+
+        "sidebar-color": "#103c48",
+        "roomlist-background-color": "#184956",
+        "roomlist-text-color": "#dbb32d",
+        "roomlist-text-secondary-color": "#adbcbc",
+        "roomlist-highlights-color": "#103c48",
+        "roomlist-separator-color": "#2d5b69",
+
+        "timeline-background-color": "#2d5b69",
+        "timeline-text-color": "#cad8d9",
+        "secondary-content": "#cad8d9",
+        "tertiary-content": "#cad8d9",
+        "timeline-text-secondary-color": "#4695f7",
+        "timeline-highlights-color": "#184956",
+        "reaction-row-button-selected-bg-color": "fa5750"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "Woodland",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#b7ba53",
+        "primary-color": "#6eb958",
+        "warning-color": "#d35c5c",
+
+        "sidebar-color": "#231e18",
+        "roomlist-background-color": "#302b25",
+        "roomlist-text-color": "#e0ac16",
+        "roomlist-text-secondary-color": "#cabcb1",
+        "roomlist-highlights-color": "#231e18",
+        "roomlist-separator-color": "#48413a",
+
+        "timeline-background-color": "#48413a",
+        "timeline-text-color": "#d7c8bc",
+        "secondary-content": "#d7c8bc",
+        "tertiary-content": "#d7c8bc",
+        "timeline-text-secondary-color": "#88a4d3",
+        "timeline-highlights-color": "#302b25",
+        "reaction-row-button-selected-bg-color": "d35c5c"
+    }
+}

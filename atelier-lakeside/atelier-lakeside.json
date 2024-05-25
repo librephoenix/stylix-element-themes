@@ -1,0 +1,25 @@
+
+{
+    "name": "Atelier Lakeside",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#568c3b",
+        "primary-color": "#2d8f6f",
+        "warning-color": "#d22d72",
+
+        "sidebar-color": "#161b1d",
+        "roomlist-background-color": "#1f292e",
+        "roomlist-text-color": "#8a8a0f",
+        "roomlist-text-secondary-color": "#7ea2b4",
+        "roomlist-highlights-color": "#161b1d",
+        "roomlist-separator-color": "#516d7b",
+
+        "timeline-background-color": "#516d7b",
+        "timeline-text-color": "#c1e4f6",
+        "secondary-content": "#c1e4f6",
+        "tertiary-content": "#c1e4f6",
+        "timeline-text-secondary-color": "#257fad",
+        "timeline-highlights-color": "#1f292e",
+        "reaction-row-button-selected-bg-color": "d22d72"
+    }
+}

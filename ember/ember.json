@@ -1,0 +1,25 @@
+
+{
+    "name": "Ember",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#8682fe",
+        "primary-color": "#f1bf84",
+        "warning-color": "#f92622",
+
+        "sidebar-color": "#330a0a",
+        "roomlist-background-color": "#4d0a0a",
+        "roomlist-text-color": "#fdc51f",
+        "roomlist-text-secondary-color": "#f89852",
+        "roomlist-highlights-color": "#330a0a",
+        "roomlist-separator-color": "#662a0a",
+
+        "timeline-background-color": "#662a0a",
+        "timeline-text-color": "#ffb441",
+        "secondary-content": "#ffb441",
+        "tertiary-content": "#ffb441",
+        "timeline-text-secondary-color": "#b6b98f",
+        "timeline-highlights-color": "#4d0a0a",
+        "reaction-row-button-selected-bg-color": "f92622"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "Atelier Cave",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#2a9292",
+        "primary-color": "#398bc6",
+        "warning-color": "#be4678",
+
+        "sidebar-color": "#19171c",
+        "roomlist-background-color": "#26232a",
+        "roomlist-text-color": "#a06e3b",
+        "roomlist-text-secondary-color": "#8b8792",
+        "roomlist-highlights-color": "#19171c",
+        "roomlist-separator-color": "#585260",
+
+        "timeline-background-color": "#585260",
+        "timeline-text-color": "#e2dfe7",
+        "secondary-content": "#e2dfe7",
+        "tertiary-content": "#e2dfe7",
+        "timeline-text-secondary-color": "#576ddb",
+        "timeline-highlights-color": "#26232a",
+        "reaction-row-button-selected-bg-color": "be4678"
+    }
+}

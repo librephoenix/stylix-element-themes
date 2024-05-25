@@ -1,0 +1,25 @@
+
+{
+    "name": "Ayu Dark",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#B8CC52",
+        "primary-color": "#95E6CB",
+        "warning-color": "#F07178",
+
+        "sidebar-color": "#0F1419",
+        "roomlist-background-color": "#131721",
+        "roomlist-text-color": "#FFB454",
+        "roomlist-text-secondary-color": "#E6E1CF",
+        "roomlist-highlights-color": "#0F1419",
+        "roomlist-separator-color": "#272D38",
+
+        "timeline-background-color": "#272D38",
+        "timeline-text-color": "#E6E1CF",
+        "secondary-content": "#E6E1CF",
+        "tertiary-content": "#E6E1CF",
+        "timeline-text-secondary-color": "#59C2FF",
+        "timeline-highlights-color": "#131721",
+        "reaction-row-button-selected-bg-color": "F07178"
+    }
+}

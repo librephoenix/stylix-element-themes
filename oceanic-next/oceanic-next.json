@@ -1,0 +1,25 @@
+
+{
+    "name": "OceanicNext",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#99C794",
+        "primary-color": "#5FB3B3",
+        "warning-color": "#EC5f67",
+
+        "sidebar-color": "#1B2B34",
+        "roomlist-background-color": "#343D46",
+        "roomlist-text-color": "#FAC863",
+        "roomlist-text-secondary-color": "#C0C5CE",
+        "roomlist-highlights-color": "#1B2B34",
+        "roomlist-separator-color": "#4F5B66",
+
+        "timeline-background-color": "#4F5B66",
+        "timeline-text-color": "#CDD3DE",
+        "secondary-content": "#CDD3DE",
+        "tertiary-content": "#CDD3DE",
+        "timeline-text-secondary-color": "#6699CC",
+        "timeline-highlights-color": "#343D46",
+        "reaction-row-button-selected-bg-color": "EC5f67"
+    }
+}

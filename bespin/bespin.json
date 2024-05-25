@@ -1,0 +1,25 @@
+
+{
+    "name": "Bespin",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#54be0d",
+        "primary-color": "#afc4db",
+        "warning-color": "#cf6a4c",
+
+        "sidebar-color": "#28211c",
+        "roomlist-background-color": "#36312e",
+        "roomlist-text-color": "#f9ee98",
+        "roomlist-text-secondary-color": "#8a8986",
+        "roomlist-highlights-color": "#28211c",
+        "roomlist-separator-color": "#5e5d5c",
+
+        "timeline-background-color": "#5e5d5c",
+        "timeline-text-color": "#9d9b97",
+        "secondary-content": "#9d9b97",
+        "tertiary-content": "#9d9b97",
+        "timeline-text-secondary-color": "#5ea6ea",
+        "timeline-highlights-color": "#36312e",
+        "reaction-row-button-selected-bg-color": "cf6a4c"
+    }
+}

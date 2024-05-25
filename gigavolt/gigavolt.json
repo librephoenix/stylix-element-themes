@@ -1,0 +1,25 @@
+
+{
+    "name": "Gigavolt",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#f2e6a9",
+        "primary-color": "#fb6acb",
+        "warning-color": "#ff661a",
+
+        "sidebar-color": "#202126",
+        "roomlist-background-color": "#2d303d",
+        "roomlist-text-color": "#ffdc2d",
+        "roomlist-text-secondary-color": "#e9e7e1",
+        "roomlist-highlights-color": "#202126",
+        "roomlist-separator-color": "#5a576e",
+
+        "timeline-background-color": "#5a576e",
+        "timeline-text-color": "#eff0f9",
+        "secondary-content": "#eff0f9",
+        "tertiary-content": "#eff0f9",
+        "timeline-text-secondary-color": "#40bfff",
+        "timeline-highlights-color": "#2d303d",
+        "reaction-row-button-selected-bg-color": "ff661a"
+    }
+}

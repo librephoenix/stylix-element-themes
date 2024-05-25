@@ -1,0 +1,25 @@
+
+{
+    "name": "Atelier Estuary",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#7d9726",
+        "primary-color": "#5b9d48",
+        "warning-color": "#ba6236",
+
+        "sidebar-color": "#22221b",
+        "roomlist-background-color": "#302f27",
+        "roomlist-text-color": "#a5980d",
+        "roomlist-text-secondary-color": "#929181",
+        "roomlist-highlights-color": "#22221b",
+        "roomlist-separator-color": "#5f5e4e",
+
+        "timeline-background-color": "#5f5e4e",
+        "timeline-text-color": "#e7e6df",
+        "secondary-content": "#e7e6df",
+        "tertiary-content": "#e7e6df",
+        "timeline-text-secondary-color": "#36a166",
+        "timeline-highlights-color": "#302f27",
+        "reaction-row-button-selected-bg-color": "ba6236"
+    }
+}

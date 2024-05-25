@@ -1,0 +1,25 @@
+
+{
+    "name": "UwUnicorn YT",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#c965bf",
+        "primary-color": "#9c5fce",
+        "warning-color": "#de5b44",
+
+        "sidebar-color": "#241b26",
+        "roomlist-background-color": "#2f2a3f",
+        "roomlist-text-color": "#a84a73",
+        "roomlist-text-secondary-color": "#eed5d9",
+        "roomlist-highlights-color": "#241b26",
+        "roomlist-separator-color": "#46354a",
+
+        "timeline-background-color": "#46354a",
+        "timeline-text-color": "#d9c2c6",
+        "secondary-content": "#d9c2c6",
+        "tertiary-content": "#d9c2c6",
+        "timeline-text-secondary-color": "#6a9eb5",
+        "timeline-highlights-color": "#2f2a3f",
+        "reaction-row-button-selected-bg-color": "de5b44"
+    }
+}

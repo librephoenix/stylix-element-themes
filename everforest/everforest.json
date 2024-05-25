@@ -1,0 +1,25 @@
+
+{
+    "name": "Everforest",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#83c092",
+        "primary-color": "#e69875",
+        "warning-color": "#7fbbb3",
+
+        "sidebar-color": "#2f383e",
+        "roomlist-background-color": "#374247",
+        "roomlist-text-color": "#dbbc7f",
+        "roomlist-text-secondary-color": "#d3c6aa",
+        "roomlist-highlights-color": "#2f383e",
+        "roomlist-separator-color": "#4a555b",
+
+        "timeline-background-color": "#4a555b",
+        "timeline-text-color": "#e4e1cd",
+        "secondary-content": "#e4e1cd",
+        "tertiary-content": "#e4e1cd",
+        "timeline-text-secondary-color": "#a7c080",
+        "timeline-highlights-color": "#374247",
+        "reaction-row-button-selected-bg-color": "7fbbb3"
+    }
+}

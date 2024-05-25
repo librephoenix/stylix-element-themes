@@ -1,0 +1,25 @@
+
+{
+    "name": "Windows 95",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#54fc54",
+        "primary-color": "#54fcfc",
+        "warning-color": "#fc5454",
+
+        "sidebar-color": "#000000",
+        "roomlist-background-color": "#1C1C1C",
+        "roomlist-text-color": "#fcfc54",
+        "roomlist-text-secondary-color": "#a8a8a8",
+        "roomlist-highlights-color": "#000000",
+        "roomlist-separator-color": "#383838",
+
+        "timeline-background-color": "#383838",
+        "timeline-text-color": "#d2d2d2",
+        "secondary-content": "#d2d2d2",
+        "tertiary-content": "#d2d2d2",
+        "timeline-text-secondary-color": "#5454fc",
+        "timeline-highlights-color": "#1C1C1C",
+        "reaction-row-button-selected-bg-color": "fc5454"
+    }
+}

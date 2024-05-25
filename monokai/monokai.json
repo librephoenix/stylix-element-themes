@@ -1,0 +1,25 @@
+
+{
+    "name": "Monokai",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#a6e22e",
+        "primary-color": "#a1efe4",
+        "warning-color": "#f92672",
+
+        "sidebar-color": "#272822",
+        "roomlist-background-color": "#383830",
+        "roomlist-text-color": "#f4bf75",
+        "roomlist-text-secondary-color": "#f8f8f2",
+        "roomlist-highlights-color": "#272822",
+        "roomlist-separator-color": "#49483e",
+
+        "timeline-background-color": "#49483e",
+        "timeline-text-color": "#f5f4f1",
+        "secondary-content": "#f5f4f1",
+        "tertiary-content": "#f5f4f1",
+        "timeline-text-secondary-color": "#66d9ef",
+        "timeline-highlights-color": "#383830",
+        "reaction-row-button-selected-bg-color": "f92672"
+    }
+}

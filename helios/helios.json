@@ -1,0 +1,25 @@
+
+{
+    "name": "Helios",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#88b92d",
+        "primary-color": "#1ba595",
+        "warning-color": "#d72638",
+
+        "sidebar-color": "#1d2021",
+        "roomlist-background-color": "#383c3e",
+        "roomlist-text-color": "#f19d1a",
+        "roomlist-text-secondary-color": "#d5d5d5",
+        "roomlist-highlights-color": "#1d2021",
+        "roomlist-separator-color": "#53585b",
+
+        "timeline-background-color": "#53585b",
+        "timeline-text-color": "#dddddd",
+        "secondary-content": "#dddddd",
+        "tertiary-content": "#dddddd",
+        "timeline-text-secondary-color": "#1e8bac",
+        "timeline-highlights-color": "#383c3e",
+        "reaction-row-button-selected-bg-color": "d72638"
+    }
+}

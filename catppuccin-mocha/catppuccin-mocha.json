@@ -1,0 +1,25 @@
+
+{
+    "name": "Catppuccin Mocha",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#a6e3a1",
+        "primary-color": "#94e2d5",
+        "warning-color": "#f38ba8",
+
+        "sidebar-color": "#1e1e2e",
+        "roomlist-background-color": "#181825",
+        "roomlist-text-color": "#f9e2af",
+        "roomlist-text-secondary-color": "#cdd6f4",
+        "roomlist-highlights-color": "#1e1e2e",
+        "roomlist-separator-color": "#313244",
+
+        "timeline-background-color": "#313244",
+        "timeline-text-color": "#f5e0dc",
+        "secondary-content": "#f5e0dc",
+        "tertiary-content": "#f5e0dc",
+        "timeline-text-secondary-color": "#89b4fa",
+        "timeline-highlights-color": "#181825",
+        "reaction-row-button-selected-bg-color": "f38ba8"
+    }
+}

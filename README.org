@@ -1,0 +1,9 @@
+#+title: My Stylix Element Themes
+
+** What is this repo?
+Themes corresponding to all of my stylix themes which can be found at any of the following mirrors:
+- [[https://gitlab.com/librephoenix/nixos-config/-/tree/main/themes?ref_type=heads][GitLab]]
+- [[https://github.com/librephoenix/nixos-config/tree/main/themes][GitHub]]
+- [[https://codeberg.org/librephoenix/nixos-config/src/branch/main/themes][Codeberg]]
+
+I made this because I couldn't get Element themes to load locally :(

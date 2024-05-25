@@ -1,0 +1,25 @@
+
+{
+    "name": "Atelier Plateau",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#4b8b8b",
+        "primary-color": "#5485b6",
+        "warning-color": "#ca4949",
+
+        "sidebar-color": "#1b1818",
+        "roomlist-background-color": "#292424",
+        "roomlist-text-color": "#a06e3b",
+        "roomlist-text-secondary-color": "#8a8585",
+        "roomlist-highlights-color": "#1b1818",
+        "roomlist-separator-color": "#585050",
+
+        "timeline-background-color": "#585050",
+        "timeline-text-color": "#e7dfdf",
+        "secondary-content": "#e7dfdf",
+        "tertiary-content": "#e7dfdf",
+        "timeline-text-secondary-color": "#7272ca",
+        "timeline-highlights-color": "#292424",
+        "reaction-row-button-selected-bg-color": "ca4949"
+    }
+}

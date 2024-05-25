@@ -1,0 +1,25 @@
+
+{
+    "name": "darkmoss",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#499180",
+        "primary-color": "#66d9ef",
+        "warning-color": "#ff4658",
+
+        "sidebar-color": "#171e1f",
+        "roomlist-background-color": "#252c2d",
+        "roomlist-text-color": "#fdb11f",
+        "roomlist-text-secondary-color": "#c7c7a5",
+        "roomlist-highlights-color": "#171e1f",
+        "roomlist-separator-color": "#373c3d",
+
+        "timeline-background-color": "#373c3d",
+        "timeline-text-color": "#e3e3c8",
+        "secondary-content": "#e3e3c8",
+        "tertiary-content": "#e3e3c8",
+        "timeline-text-secondary-color": "#498091",
+        "timeline-highlights-color": "#252c2d",
+        "reaction-row-button-selected-bg-color": "ff4658"
+    }
+}

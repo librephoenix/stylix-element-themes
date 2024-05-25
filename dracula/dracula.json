@@ -1,0 +1,25 @@
+
+{
+    "name": "Dracula",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#ebff87",
+        "primary-color": "#a1efe4",
+        "warning-color": "#ea51b2",
+
+        "sidebar-color": "#282936",
+        "roomlist-background-color": "#333547",
+        "roomlist-text-color": "#00f769",
+        "roomlist-text-secondary-color": "#e9e9f4",
+        "roomlist-highlights-color": "#282936",
+        "roomlist-separator-color": "#4d4f68",
+
+        "timeline-background-color": "#4d4f68",
+        "timeline-text-color": "#f1f2f8",
+        "secondary-content": "#f1f2f8",
+        "tertiary-content": "#f1f2f8",
+        "timeline-text-secondary-color": "#62d6e8",
+        "timeline-highlights-color": "#333547",
+        "reaction-row-button-selected-bg-color": "ea51b2"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "XCode Dusk",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#DF0002",
+        "primary-color": "#00A0BE",
+        "warning-color": "#B21889",
+
+        "sidebar-color": "#282B35",
+        "roomlist-background-color": "#3D4048",
+        "roomlist-text-color": "#438288",
+        "roomlist-text-secondary-color": "#939599",
+        "roomlist-highlights-color": "#282B35",
+        "roomlist-separator-color": "#53555D",
+
+        "timeline-background-color": "#53555D",
+        "timeline-text-color": "#A9AAAE",
+        "secondary-content": "#A9AAAE",
+        "tertiary-content": "#A9AAAE",
+        "timeline-text-secondary-color": "#790EAD",
+        "timeline-highlights-color": "#3D4048",
+        "reaction-row-button-selected-bg-color": "B21889"
+    }
+}

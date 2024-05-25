@@ -1,0 +1,25 @@
+
+{
+    "name": "Summerfruit Dark",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#00C918",
+        "primary-color": "#1FAAAA",
+        "warning-color": "#FF0086",
+
+        "sidebar-color": "#151515",
+        "roomlist-background-color": "#202020",
+        "roomlist-text-color": "#ABA800",
+        "roomlist-text-secondary-color": "#D0D0D0",
+        "roomlist-highlights-color": "#151515",
+        "roomlist-separator-color": "#303030",
+
+        "timeline-background-color": "#303030",
+        "timeline-text-color": "#E0E0E0",
+        "secondary-content": "#E0E0E0",
+        "tertiary-content": "#E0E0E0",
+        "timeline-text-secondary-color": "#3777E6",
+        "timeline-highlights-color": "#202020",
+        "reaction-row-button-selected-bg-color": "FF0086"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "Catppuccin Frappe",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#a6d189",
+        "primary-color": "#81c8be",
+        "warning-color": "#e78284",
+
+        "sidebar-color": "#303446",
+        "roomlist-background-color": "#292c3c",
+        "roomlist-text-color": "#e5c890",
+        "roomlist-text-secondary-color": "#c6d0f5",
+        "roomlist-highlights-color": "#303446",
+        "roomlist-separator-color": "#414559",
+
+        "timeline-background-color": "#414559",
+        "timeline-text-color": "#f2d5cf",
+        "secondary-content": "#f2d5cf",
+        "tertiary-content": "#f2d5cf",
+        "timeline-text-secondary-color": "#8caaee",
+        "timeline-highlights-color": "#292c3c",
+        "reaction-row-button-selected-bg-color": "e78284"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "Henna",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#53df83",
+        "primary-color": "#1abc9c",
+        "warning-color": "#e74c3c",
+
+        "sidebar-color": "#10151a",
+        "roomlist-background-color": "#1B1F23",
+        "roomlist-text-color": "#9cd230",
+        "roomlist-text-secondary-color": "#606F73",
+        "roomlist-highlights-color": "#10151a",
+        "roomlist-separator-color": "#2c313a",
+
+        "timeline-background-color": "#2c313a",
+        "timeline-text-color": "#6B717D",
+        "secondary-content": "#6B717D",
+        "tertiary-content": "#6B717D",
+        "timeline-text-secondary-color": "#56b5c2",
+        "timeline-highlights-color": "#1B1F23",
+        "reaction-row-button-selected-bg-color": "e74c3c"
+    }
+}

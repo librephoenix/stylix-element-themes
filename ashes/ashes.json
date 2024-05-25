@@ -1,0 +1,25 @@
+
+{
+    "name": "Ashes",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#95C7AE",
+        "primary-color": "#95AEC7",
+        "warning-color": "#C7AE95",
+
+        "sidebar-color": "#1C2023",
+        "roomlist-background-color": "#393F45",
+        "roomlist-text-color": "#AEC795",
+        "roomlist-text-secondary-color": "#C7CCD1",
+        "roomlist-highlights-color": "#1C2023",
+        "roomlist-separator-color": "#565E65",
+
+        "timeline-background-color": "#565E65",
+        "timeline-text-color": "#DFE2E5",
+        "secondary-content": "#DFE2E5",
+        "tertiary-content": "#DFE2E5",
+        "timeline-text-secondary-color": "#AE95C7",
+        "timeline-highlights-color": "#393F45",
+        "reaction-row-button-selected-bg-color": "C7AE95"
+    }
+}

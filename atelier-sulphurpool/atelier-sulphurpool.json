@@ -1,0 +1,25 @@
+
+{
+    "name": "Atelier Sulphurpool",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#ac9739",
+        "primary-color": "#22a2c9",
+        "warning-color": "#c94922",
+
+        "sidebar-color": "#202746",
+        "roomlist-background-color": "#293256",
+        "roomlist-text-color": "#c08b30",
+        "roomlist-text-secondary-color": "#979db4",
+        "roomlist-highlights-color": "#202746",
+        "roomlist-separator-color": "#5e6687",
+
+        "timeline-background-color": "#5e6687",
+        "timeline-text-color": "#dfe2f1",
+        "secondary-content": "#dfe2f1",
+        "tertiary-content": "#dfe2f1",
+        "timeline-text-secondary-color": "#3d8fd1",
+        "timeline-highlights-color": "#293256",
+        "reaction-row-button-selected-bg-color": "c94922"
+    }
+}

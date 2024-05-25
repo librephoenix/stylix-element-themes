@@ -1,0 +1,25 @@
+
+{
+    "name": "Atelier Heath",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#918b3b",
+        "primary-color": "#159393",
+        "warning-color": "#ca402b",
+
+        "sidebar-color": "#1b181b",
+        "roomlist-background-color": "#292329",
+        "roomlist-text-color": "#bb8a35",
+        "roomlist-text-secondary-color": "#ab9bab",
+        "roomlist-highlights-color": "#1b181b",
+        "roomlist-separator-color": "#695d69",
+
+        "timeline-background-color": "#695d69",
+        "timeline-text-color": "#d8cad8",
+        "secondary-content": "#d8cad8",
+        "tertiary-content": "#d8cad8",
+        "timeline-text-secondary-color": "#516aec",
+        "timeline-highlights-color": "#292329",
+        "reaction-row-button-selected-bg-color": "ca402b"
+    }
+}

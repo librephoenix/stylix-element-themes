@@ -1,0 +1,25 @@
+
+{
+    "name": "Isotope",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#33ff00",
+        "primary-color": "#00ffff",
+        "warning-color": "#ff0000",
+
+        "sidebar-color": "#000000",
+        "roomlist-background-color": "#404040",
+        "roomlist-text-color": "#ff0099",
+        "roomlist-text-secondary-color": "#d0d0d0",
+        "roomlist-highlights-color": "#000000",
+        "roomlist-separator-color": "#606060",
+
+        "timeline-background-color": "#606060",
+        "timeline-text-color": "#e0e0e0",
+        "secondary-content": "#e0e0e0",
+        "tertiary-content": "#e0e0e0",
+        "timeline-text-secondary-color": "#0066ff",
+        "timeline-highlights-color": "#404040",
+        "reaction-row-button-selected-bg-color": "ff0000"
+    }
+}

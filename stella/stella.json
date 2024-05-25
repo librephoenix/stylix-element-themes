@@ -1,0 +1,25 @@
+
+{
+    "name": "Stella",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#ACC79B",
+        "primary-color": "#9BC7BF",
+        "warning-color": "#C79987",
+
+        "sidebar-color": "#2B213C",
+        "roomlist-background-color": "#362B48",
+        "roomlist-text-color": "#C7C691",
+        "roomlist-text-secondary-color": "#998BAD",
+        "roomlist-highlights-color": "#2B213C",
+        "roomlist-separator-color": "#4D4160",
+
+        "timeline-background-color": "#4D4160",
+        "timeline-text-color": "#B4A5C8",
+        "secondary-content": "#B4A5C8",
+        "tertiary-content": "#B4A5C8",
+        "timeline-text-secondary-color": "#A5AAD4",
+        "timeline-highlights-color": "#362B48",
+        "reaction-row-button-selected-bg-color": "C79987"
+    }
+}

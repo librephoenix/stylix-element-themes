@@ -1,0 +1,25 @@
+
+{
+    "name": "Material Vivid",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#00e676",
+        "primary-color": "#00bcd4",
+        "warning-color": "#f44336",
+
+        "sidebar-color": "#202124",
+        "roomlist-background-color": "#27292c",
+        "roomlist-text-color": "#ffeb3b",
+        "roomlist-text-secondary-color": "#80868b",
+        "roomlist-highlights-color": "#202124",
+        "roomlist-separator-color": "#323639",
+
+        "timeline-background-color": "#323639",
+        "timeline-text-color": "#9e9e9e",
+        "secondary-content": "#9e9e9e",
+        "tertiary-content": "#9e9e9e",
+        "timeline-text-secondary-color": "#2196f3",
+        "timeline-highlights-color": "#27292c",
+        "reaction-row-button-selected-bg-color": "f44336"
+    }
+}

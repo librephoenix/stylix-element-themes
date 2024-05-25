@@ -1,0 +1,25 @@
+
+{
+    "name": "Fairy Floss",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#55b3cc",
+        "primary-color": "#8295D6",
+        "warning-color": "#CC6666",
+
+        "sidebar-color": "#343145",
+        "roomlist-background-color": "#464258",
+        "roomlist-text-color": "#C2FFDF",
+        "roomlist-text-secondary-color": "#A0A0C0",
+        "roomlist-highlights-color": "#343145",
+        "roomlist-separator-color": "#6A6483",
+
+        "timeline-background-color": "#6A6483",
+        "timeline-text-color": "#B5B2Bd",
+        "secondary-content": "#B5B2Bd",
+        "tertiary-content": "#B5B2Bd",
+        "timeline-text-secondary-color": "#FFB8D1",
+        "timeline-highlights-color": "#464258",
+        "reaction-row-button-selected-bg-color": "CC6666"
+    }
+}

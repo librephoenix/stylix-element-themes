@@ -1,0 +1,25 @@
+
+{
+    "name": "emil",
+    "is_dark": false,
+    "colors": {
+        "accent-color": "#0073a8",
+        "primary-color": "#2155d6",
+        "warning-color": "#f43979",
+
+        "sidebar-color": "#efefef",
+        "roomlist-background-color": "#bebed2",
+        "roomlist-text-color": "#ff669b",
+        "roomlist-text-secondary-color": "#313145",
+        "roomlist-highlights-color": "#efefef",
+        "roomlist-separator-color": "#9e9eaf",
+
+        "timeline-background-color": "#9e9eaf",
+        "timeline-text-color": "#22223a",
+        "secondary-content": "#22223a",
+        "tertiary-content": "#22223a",
+        "timeline-text-secondary-color": "#471397",
+        "timeline-highlights-color": "#bebed2",
+        "reaction-row-button-selected-bg-color": "f43979"
+    }
+}

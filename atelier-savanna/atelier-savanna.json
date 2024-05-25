@@ -1,0 +1,25 @@
+
+{
+    "name": "Atelier Savanna",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#489963",
+        "primary-color": "#1c9aa0",
+        "warning-color": "#b16139",
+
+        "sidebar-color": "#171c19",
+        "roomlist-background-color": "#232a25",
+        "roomlist-text-color": "#a07e3b",
+        "roomlist-text-secondary-color": "#87928a",
+        "roomlist-highlights-color": "#171c19",
+        "roomlist-separator-color": "#526057",
+
+        "timeline-background-color": "#526057",
+        "timeline-text-color": "#dfe7e2",
+        "secondary-content": "#dfe7e2",
+        "tertiary-content": "#dfe7e2",
+        "timeline-text-secondary-color": "#478c90",
+        "timeline-highlights-color": "#232a25",
+        "reaction-row-button-selected-bg-color": "b16139"
+    }
+}

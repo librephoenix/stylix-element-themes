@@ -1,0 +1,25 @@
+
+{
+    "name": "Ubuntu",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#95C7A4",
+        "primary-color": "#95AEA1",
+        "warning-color": "#E95420",
+
+        "sidebar-color": "#2C001E",
+        "roomlist-background-color": "#411934",
+        "roomlist-text-color": "#AEC795",
+        "roomlist-text-secondary-color": "#957F8E",
+        "roomlist-highlights-color": "#2C001E",
+        "roomlist-separator-color": "#56334B",
+
+        "timeline-background-color": "#56334B",
+        "timeline-text-color": "#DFE2E5",
+        "secondary-content": "#DFE2E5",
+        "tertiary-content": "#DFE2E5",
+        "timeline-text-secondary-color": "#772953",
+        "timeline-highlights-color": "#411934",
+        "reaction-row-button-selected-bg-color": "E95420"
+    }
+}

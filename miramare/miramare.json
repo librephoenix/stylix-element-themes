@@ -1,0 +1,25 @@
+
+{
+    "name": "Miramare",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#87af87",
+        "primary-color": "#0075c4",
+        "warning-color": "#e68183",
+
+        "sidebar-color": "#0d1001",
+        "roomlist-background-color": "#241c0a",
+        "roomlist-text-color": "#d9bb80",
+        "roomlist-text-secondary-color": "#928374",
+        "roomlist-highlights-color": "#0d1001",
+        "roomlist-separator-color": "#3c3836",
+
+        "timeline-background-color": "#3c3836",
+        "timeline-text-color": "#d8caac",
+        "secondary-content": "#d8caac",
+        "tertiary-content": "#d8caac",
+        "timeline-text-secondary-color": "#89beba",
+        "timeline-highlights-color": "#241c0a",
+        "reaction-row-button-selected-bg-color": "e68183"
+    }
+}
