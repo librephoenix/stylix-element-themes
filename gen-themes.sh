@@ -50,7 +50,7 @@ else
         \"roomlist-highlights-color\": \"#$base00\",
         \"roomlist-separator-color\": \"#$base02\",
 
-        \"timeline-background-color\": \"#$base02\",
+        \"timeline-background-color\": \"#$base00\",
         \"timeline-text-color\": \"#$base06\",
         \"secondary-content\": \"#$base06\",
         \"tertiary-content\": \"#$base06\",

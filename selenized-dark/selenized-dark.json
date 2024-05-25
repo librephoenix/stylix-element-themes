@@ -1,6 +1,6 @@
 
 {
-    "name": "selenized-dark",
+    "name": "Selenized Dark",
     "is_dark": true,
     "colors": {
         "accent-color": "#75b938",
@@ -14,7 +14,7 @@
         "roomlist-highlights-color": "#103c48",
         "roomlist-separator-color": "#2d5b69",
 
-        "timeline-background-color": "#2d5b69",
+        "timeline-background-color": "#103c48",
         "timeline-text-color": "#cad8d9",
         "secondary-content": "#cad8d9",
         "tertiary-content": "#cad8d9",

@@ -14,7 +14,7 @@
         "roomlist-highlights-color": "#000000",
         "roomlist-separator-color": "#383838",
 
-        "timeline-background-color": "#383838",
+        "timeline-background-color": "#000000",
         "timeline-text-color": "#d2d2d2",
         "secondary-content": "#d2d2d2",
         "tertiary-content": "#d2d2d2",
