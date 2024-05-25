@@ -7,3 +7,15 @@ Themes corresponding to all of my stylix themes which can be found at any of the
 - [[https://codeberg.org/librephoenix/nixos-config/src/branch/main/themes][Codeberg]]
 
 I made this because I couldn't get Element themes to load locally :(
+
+** Usage
+First, make sure Labs are enabled in your Element's =config.json=:
+#+begin_src json
+{
+    "show_labs_settings": true
+}
+#+end_src
+
+Next, enable "Support adding custom themes" (=feature_custom_themes=) in the Labs section of your settings.
+
+Lastly, you can import any theme you want by going to the Appearance section of your settings, and pasting a raw url to any json theme in this repository.
