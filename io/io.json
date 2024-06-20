@@ -1,0 +1,25 @@
+
+{
+    "name": "Io",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#c965bf",
+        "primary-color": "#9c5fce",
+        "warning-color": "#de5b44",
+
+        "sidebar-color": "#1a181a",
+        "roomlist-background-color": "#262326",
+        "roomlist-text-color": "#a84a73",
+        "roomlist-text-secondary-color": "#bfaab7",
+        "roomlist-highlights-color": "#1a181a",
+        "roomlist-separator-color": "#302c30",
+
+        "timeline-background-color": "#1a181a",
+        "timeline-text-color": "#dbd7da",
+        "secondary-content": "#dbd7da",
+        "tertiary-content": "#dbd7da",
+        "timeline-text-secondary-color": "#0e85b9",
+        "timeline-highlights-color": "#262326",
+        "reaction-row-button-selected-bg-color": "de5b44"
+    }
+}

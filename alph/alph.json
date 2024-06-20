@@ -1,0 +1,25 @@
+
+{
+    "name": "Alph",
+    "is_dark": false,
+    "colors": {
+        "accent-color": "#06AD72",
+        "primary-color": "#06A3AD",
+        "warning-color": "#AD0617",
+
+        "sidebar-color": "#fbfbff",
+        "roomlist-background-color": "#D8E4F4",
+        "roomlist-text-color": "#AD6A06",
+        "roomlist-text-secondary-color": "#444452",
+        "roomlist-highlights-color": "#fbfbff",
+        "roomlist-separator-color": "#BCCDE1",
+
+        "timeline-background-color": "#fbfbff",
+        "timeline-text-color": "#333349",
+        "secondary-content": "#333349",
+        "tertiary-content": "#333349",
+        "timeline-text-secondary-color": "#0A5D97",
+        "timeline-highlights-color": "#D8E4F4",
+        "reaction-row-button-selected-bg-color": "AD0617"
+    }
+}
